@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+int main()
+{
+    //variables
+    int edad = 0;
+    printf("Bienvenido. Ingresa tu edad: ");
+    scanf("%d",&edad);
+    //condicional IF ELSE
+    if(edad >= 18)
+    {
+        printf("Bienvenido a esta p%cgina de contenido para adultos\n",160);
+    }
+    else
+    {
+        printf("No esta permitido tu acceso\n");
+    }
+    
+    return 0;
+}

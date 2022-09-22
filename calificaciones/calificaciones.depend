@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663801781 source:e:\programacionc\calificaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
