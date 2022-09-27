@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664314454 source:e:\programacionc\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
